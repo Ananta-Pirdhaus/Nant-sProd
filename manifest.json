@@ -1,0 +1,25 @@
+{
+  "short_name": "Nant's Prod",
+  "name": "Ananta Pirdhaus Portfolio",
+  "icons": [
+    {
+      "src": "public/about-page-img.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "public/about-page-img.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "public/about-page-img.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

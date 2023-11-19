@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Nant-s-Prod/static/css/main.23883dd6.css",
+    "main.js": "/Nant-s-Prod/static/js/main.1bfd9e7c.js",
+    "static/media/about-sec-img (2).png": "/Nant-s-Prod/static/media/about-sec-img (2).e567890bdc8fafc94c60.png",
+    "static/media/hero.png": "/Nant-s-Prod/static/media/hero.88d982285c8b7a62abcd.png",
+    "static/media/about-page-img.png": "/Nant-s-Prod/static/media/about-page-img.2f0e401eaba1e3663443.png",
+    "static/media/cavinimg.jpg": "/Nant-s-Prod/static/media/cavinimg.77adeaa3a878fa721ecc.jpg",
+    "static/media/utracker.jpg": "/Nant-s-Prod/static/media/utracker.be1fe64a60e6c8ad2a2f.jpg",
+    "static/media/greenctg.jpg": "/Nant-s-Prod/static/media/greenctg.e51b3bbd67082da93f16.jpg",
+    "static/media/map.png": "/Nant-s-Prod/static/media/map.9f0ea34f235b6367bf79.png",
+    "static/media/Montserrat-Bold.ttf": "/Nant-s-Prod/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/Nant-s-Prod/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/cointracker.jpg": "/Nant-s-Prod/static/media/cointracker.8da9e0cd4402156b905b.jpg",
+    "static/media/RobotoMono-Regular.ttf": "/Nant-s-Prod/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
+    "static/media/projectImg.png": "/Nant-s-Prod/static/media/projectImg.771236e1a97e2201a189.png",
+    "index.html": "/Nant-s-Prod/index.html",
+    "static/media/scroll-down-arrow.svg": "/Nant-s-Prod/static/media/scroll-down-arrow.8ad25c53cf6a683760324d08f36d9b00.svg",
+    "static/media/social-media-arrow.svg": "/Nant-s-Prod/static/media/social-media-arrow.ecc0133cf2e7911d4b7286c107f982ec.svg",
+    "main.23883dd6.css.map": "/Nant-s-Prod/static/css/main.23883dd6.css.map",
+    "main.1bfd9e7c.js.map": "/Nant-s-Prod/static/js/main.1bfd9e7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23883dd6.css",
+    "static/js/main.1bfd9e7c.js"
+  ]
+}
